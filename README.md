@@ -1,7 +1,7 @@
 ## Flashcard Project
 
 ### Description
-Flashcard is a simple yet effective tool designed to help users learn French vocabulary. The project displays French words and provides their English translations after a short delay, allowing users to test their knowledge and improve their language skills.
+Flashcard is a simple yet effective tool designed to help users learn French vocabulary and as a part of 100 days of code day 31. The project displays French words and provides their English translations after a short delay, allowing users to test their knowledge and improve their language skills.
 
 ### Features
 - Displays French words with English translations
